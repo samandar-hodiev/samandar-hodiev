@@ -44,15 +44,15 @@ Men foydalanadigan texnologiyalar:
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" width="200px" height="200px" alt="ReactJS Logo">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/reactrouter.svg" width="200px" height="200px" alt="React Router Logo">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nextdotjs.svg" width="200px" height="200px" alt="NextJS Logo">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="200px" height="200px" alt="ReactJS Logo">
+  <img src="https://reactrouter.com/splash/v7-badge-2.svg" width="200px" height="200px" alt="React Router Logo">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9uzErWz9EXqZDxZ5lP9aYpMz8eK6rr5X3w&s" width="200px" height="200px" alt="NextJS Logo">
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/typescript.svg" width="200px" height="200px" alt="TypeScript Logo">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" width="200px" height="200px" alt="Git Logo">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" width="200px" height="200px" alt="GitHub Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="200px" height="200px" alt="TypeScript Logo">
+  <img src="https://w7.pngwing.com/pngs/155/858/png-transparent-git-icon-hd-logo.png" width="200px" height="200px" alt="Git Logo">
+  <img src="https://banner2.cleanpng.com/20190622/khw/kisspng-github-continuous-integration-microsoft-azure-sour-innovation-research-lab-irl-1713885602529.webp" width="200px" height="200px" alt="GitHub Logo">
 </p>
 
 <p>
