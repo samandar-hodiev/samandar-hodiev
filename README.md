@@ -51,13 +51,10 @@ Men foydalanadigan texnologiyalar:
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="200px" height="200px" alt="TypeScript Logo">
-  <img src="https://w7.pngwing.com/pngs/155/858/png-transparent-git-icon-hd-logo.png" width="200px" height="200px" alt="Git Logo">
-  <img src="https://banner2.cleanpng.com/20190622/khw/kisspng-github-continuous-integration-microsoft-azure-sour-innovation-research-lab-irl-1713885602529.webp" width="200px" height="200px" alt="GitHub Logo">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-225996.png?f=webp&w=256" width="200px" height="200px" alt="Git Logo">
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png" width="200px" height="200px" alt="GitHub Logo">
 </p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/figma.svg" width="200px" height="200px" alt="Figma Logo">
-</p>
 
 ---
 
