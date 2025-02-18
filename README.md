@@ -21,7 +21,7 @@
 
 ## 💻 Tajriba
 
-**Frontend dasturchisi sifatida 1.5 yil davomida mustaqil ravishda o'rgandim**, o'rgangan texnologiyalarimni kichik, lekin foydali loyihalarda amalda sinab ko'rdim. Ushbu davrda o'zimni **responsiv dizayn**, **komponent asosida arxitektura** va **modern JavaScript kutubxonalari** bilan ishlashda rivojlantirdim. Mana, bu yo'lda amalga oshirgan ishlanmalarim:
+**Frontend dasturchisi sifatida mustaqil ravishda o'rgandim**, o'rgangan texnologiyalarimni kichik, lekin foydali loyihalarda amalda sinab ko'rdim. Ushbu davrda o'zimni **responsiv dizayn**, **komponent asosida arxitektura** va **modern JavaScript kutubxonalari** bilan ishlashda rivojlantirdim. Mana, bu yo'lda amalga oshirgan ishlanmalarim:
 
 ### Loyihalar:
 - **Admin Dashboard**: React.js va Tailwind CSS yordamida foydalanuvchi interfeysi va ma'lumotlar panelini yaratdim. Loyihada statik ma'lumotlar bilan ishladim va UI/UX dizaynga e'tibor berdim.
@@ -35,15 +35,15 @@
 
 - **Katta Loyihalarda Ishlash**: Endi murakkab, katta loyihalarda ishlashni istayman. Bu orqali yangi texnologiyalarni o'rganib, chuqurroq tajriba orttirmoqchiman.
 - **Dasturlashni O'rgatish**: **Dasturlashni boshqalarga o'rgatish** maqsadida resurslar yaratmoqchiman. O'z bilimlarimni boshqalarga etkazish, jamoat bilan tajriba almashish va o'qituvchilikni rivojlantirishni rejalashtirganman.
-- **Yangi Texnologiyalarni O'rganish**: **WebAssembly**, **GraphQL**, **Jamstack** kabi texnologiyalarni o'rganish va ishlatishga qiziqishim bor. Bu men uchun yangi imkoniyatlar va muammolarni yechish uchun foydali bo'ladi.
+- **Yangi Texnologiyalarni O'rganish**: **WebAssembly**, **GraphQL**, **Jamstack** kabi texnologiyalarni o'rganish va ishlatishga qiziqishim bor. Bu men uchun yangi imkoniyatlar va muammolarni yechish uchun foydali bo'ladi.!
 
 ---
 
 ## 🛠 Ishlash Asboblari
 
 - **Version Control**: Git, GitHub
-- **Text Editors**: VS Code, Sublime Text
-- **Design Tools**: Figma, Adobe XD
+- **Text Editors**: VS Code, WebStorm,  Sublime Text
+- **Design Tools**: Figma
 - **Deployment**: Netlify, Vercel, GitHub Pages
 - **Package Managers**: NPM, Yarn
 
@@ -52,8 +52,8 @@
 ## 📫 Bog'lanish
 
 - **Telegram**: [Samandar Hodiev](https://t.me/samandar_hodiev)
-- **Email**: [email@example.com](mailto:samandarhodiev04@gmail.com)
-- **GitHub**: [samandarhodiev](https://github.com/samandarhodiev)
+- **Email**: [email@example.com](samandarkhodiev04@gmail.com)
+- **GitHub**: [samandarhodiev](https://github.com/samandar-hodiev)
 
 ---
 
@@ -63,4 +63,8 @@ Men o'z karyeramni **frontend dasturchisi sifatida boshladim** va bir necha yill
 
 Agar siz bilan hamkorlik qilishni xohlasangiz yoki savollaringiz bo'lsa, menga **email** yoki **LinkedIn** orqali murojaat qilishingiz mumkin.
 
+
+
+
+![image](https://github.com/user-attachments/assets/95ddad27-8976-4c48-9517-2f6cf6fbcd15)
 
