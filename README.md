@@ -1,37 +1,80 @@
 # Samandar Hodiev
 
-**Frontend Developer | Self-Taught**
+**Frontend Developer | Self-Taught | Web Development Enthusiast**
 
 ---
 
-## 🔧 Texnologiyalar
-- **HTML5**, **CSS3**, **SCSS**
+## 📚 O'rgangan Texnologiyalar
+
+Asosiy texnologiyalar:
+- **HTML5**, **CSS3**, **SCSS** (Sass)
 - **Tailwind CSS**, **Bootstrap**
 - **JavaScript**, **TypeScript**
-- **React.js**, **Next.js**
+
+Frameworks & Libraries:
+- **React.js**
+- **Next.js**
 
 ---
 
-## 📚 Tajriba
-1. **1.5 yil davomida self-study** – Web dasturlashning frontend qismini mustaqil o'rgandim.
-2. **Responsive web sahifalar** yaratish tajribasi.
-3. **React.js** bilan kichik ilovalar yaratdim: Admin Dashboard, GitHub Clone, To-Do App va boshqa ilovalar.
+## 💻 Tajriba
 
+Men web dasturlashning **frontend qismini 1.5 yil davomida mustaqil ravishda o'rgandim**. Bu davrda ko'plab texnologiyalarni o'zlashtirdim va quyidagi asosiy sohalarda tajriba orttirdim:
+
+- **Responsive Web Design**: Tailwind CSS va Bootstrap yordamida responsiv web sahifalar yaratdim.
+- **Component-based Architecture**: React.js va Next.js bilan ishlashda UI komponentalaridan foydalandim.
+- **Version Control**: Git va GitHub orqali kodimni boshqarish, kollaboratsiya qilish.
+  
 ---
 
 ## 🛠 Loyihalar
-- **Admin Dashboard** – Foydalanuvchi interfeysi va ma'lumotlar paneli.
-- **To-Do App** – Vazifalarni boshqarish ilovasi.
-- **GitHub Clone** – GitHub interfeysining oddiy versiyasi.
+
+### **1. Admin Dashboard**
+- Foydalanuvchilar uchun ma'lumotlar paneli yaratish. 
+- React.js, Tailwind CSS yordamida interaktiv va responsiv dizaynni amalga oshirdim.
+- Loyihada foydalanuvchi interfeysi va real vaqtda ma'lumotlar ko'rsatilgan.
+
+### **2. To-Do App**
+- Vazifalarni boshqarish uchun ilova yaratdim.
+- React.js va Tailwind CSS yordamida foydalanuvchilar uchun qulay va intuitiv interfeys taqdim etildi.
+  
+### **3. GitHub Clone**
+- GitHub interfeysining oddiy versiyasini yaratdim, foydalanuvchilarga repositorylarni ko'rish va o'zlarini yaratish imkoniyatini berdim.
+- React Router yordamida sahifalararo navigatsiyani amalga oshirdim.
+
+### **4. Boshqa Kichik Ilovalar**
+- **Quiz App**, **Weather App**, **Landing Page** va boshqa responsiv web sahifalar yaratdim.
+- Turli dasturiy ta'minotlarni va UI dizaynlarini o'z ichiga olgan kichik loyihalar ustida ishladim.
 
 ---
 
-## 📈 Kelajakdagi maqsadlar
-- Katta va murakkab loyihalar ustida ishlash.
-- Frontend sohasida yanada chuqurroq tajriba orttirish va yangi texnologiyalarni o'rganish.
+## 🌱 Kelajakdagi Maqsadlar
+
+- **Katta Loyihalar Ustida Ishlash**: Yirik va murakkab frontend loyihalarida ishlashni xohlayman, ayniqsa, jamoa bilan hamkorlikda.
+- **Yangi Texnologiyalarni O'rganish**: Web dasturlashning yangi texnologiyalari va yondashuvlarini, shu jumladan **WebAssembly**, **GraphQL**, **Jamstack** va boshqalarni o'rganishni davom ettirish.
+- **Dasturlashda Ustuvorlikni Oshirish**: **React.js**, **Next.js**, va **TypeScript** bo'yicha chuqurroq bilim olishni rejalashtirganman.
 
 ---
 
-## 📬 Mening bilan bog'lanish
+## 🛠 Ishlash Asboblari
+
+- **Version Control**: Git, GitHub
+- **Text Editors**: VS Code, Sublime Text
+- **Design Tools**: Figma, Adobe XD
+- **Deployment**: Netlify, Vercel, GitHub Pages
+
+---
+
+## 📫 Bog'lanish
+
 - **LinkedIn**: [Samandar Hodiev](https://www.linkedin.com/in/samandarhodiev)
 - **Email**: [email@example.com](mailto:email@example.com)
+- **GitHub**: [samandarhodiev](https://github.com/samandarhodiev)
+
+---
+
+## 🚀 Mening Karyeram Haqida
+
+Men frontend dasturchisi sifatida o'zimni **mustaqil o'rgangan** va zamonaviy texnologiyalar bilan ishlashni yaxshi ko'radigan inson deb ta'riflayman. Yangi loyihalar va tajriba orttirishni davom ettirishni istayman. O'z bilimlarimni kengaytirib, katta va murakkab loyihalar ustida ishlashni maqsad qilib qo'yganman.
+
+
