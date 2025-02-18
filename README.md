@@ -28,10 +28,11 @@ Men foydalanadigan texnologiyalar:
 - **Git**, **GitHub**
 - **Figma**
 
+
 ## **Animatsion Texnologiya Logolari**
 
 <p style="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" width="200px" height="200px" alt="HTML5 Logo">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" width="200px" height="200px" alt="HTML5 Logo">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" width="200px" height="200px" alt="CSS3 Logo">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" width="200px" height="200px" alt="Sass Logo">
 </p>
