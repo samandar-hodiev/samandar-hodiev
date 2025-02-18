@@ -71,7 +71,7 @@ Men frontend dasturchisi sifatida o'zimni **mustaqil o'rgangan** va zamonaviy te
 
 | **HTML5** | **CSS3** | **Sass** |
 |:---:|:---:|:---:|
-| ![HTML5](https://github.com/user-attachments/assets/44acbc03-836a-4d2b-ba83-9a05a3040563)
+| ![HTML5](<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>)
 
  | ![CSS3](https://img.icons8.com/color/300/000000/css3.png) | ![Sass](https://img.icons8.com/color/300/000000/sass.png) |
 
