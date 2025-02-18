@@ -31,9 +31,9 @@ Men foydalanadigan texnologiyalar:
 <hr>
 
 <p style="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" width="280px" height="280px" alt="HTML5 Logo">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png" width="280px" height="280px" alt="CSS3 Logo">
-  <img src="https://static-00.iconduck.com/assets.00/sass-icon-2048x2048-js3fulee.png" width="280px" height="280px" alt="Sass Logo">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" width="270px" height="270px" alt="HTML5 Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png" width="270px" height="270px" alt="CSS3 Logo">
+  <img src="https://static-00.iconduck.com/assets.00/sass-icon-2048x2048-js3fulee.png" width="270px" height="270px" alt="Sass Logo">
 </p>
 
 <p>
