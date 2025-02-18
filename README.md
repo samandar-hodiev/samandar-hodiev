@@ -51,10 +51,9 @@
 
 ## 📫 Bog'lanish
 
-- **LinkedIn**: [Samandar Hodiev](https://www.linkedin.com/in/samandarhodiev)
-- **Email**: [email@example.com](mailto:email@example.com)
+- **Telegram**: [Samandar Hodiev](https://t.me/samandar_hodiev)
+- **Email**: [email@example.com](mailto:samandarhodiev04@gmail.com)
 - **GitHub**: [samandarhodiev](https://github.com/samandarhodiev)
-- **Twitter**: [@samandarhodiev](https://twitter.com/samandarhodiev) *(agar bor bo'lsa)*
 
 ---
 
