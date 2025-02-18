@@ -1,17 +1,19 @@
 # Samandar Hodiev
 
-**Frontend Developer | Self-Taught | Web Development Enthusiast**
+**Frontend Developer | Self-Taught | Web Development Enthusiast | Aspiring Teacher**
 
 ---
 
-## 📚 O'rgangan Texnologiyalar
+## 📚 Texnologiyalar
 
-Asosiy texnologiyalar:
+### Asosiy texnologiyalar:
 - **HTML5**, **CSS3**, **SCSS** (Sass)
 - **Tailwind CSS**, **Bootstrap**
-- **JavaScript**, **TypeScript**
 
-Frameworks & Libraries:
+### JavaScript:
+- **JavaScript (ES6+)**, **TypeScript**
+
+### Frameworks va kutubxonalar:
 - **React.js**
 - **Next.js**
 
@@ -19,40 +21,21 @@ Frameworks & Libraries:
 
 ## 💻 Tajriba
 
-Men web dasturlashning **frontend qismini 1.5 yil davomida mustaqil ravishda o'rgandim**. Bu davrda ko'plab texnologiyalarni o'zlashtirdim va quyidagi asosiy sohalarda tajriba orttirdim:
+**Frontend dasturchisi sifatida 1.5 yil davomida mustaqil ravishda o'rgandim**, o'rgangan texnologiyalarimni kichik, lekin foydali loyihalarda amalda sinab ko'rdim. Ushbu davrda o'zimni **responsiv dizayn**, **komponent asosida arxitektura** va **modern JavaScript kutubxonalari** bilan ishlashda rivojlantirdim. Mana, bu yo'lda amalga oshirgan ishlanmalarim:
 
-- **Responsive Web Design**: Tailwind CSS va Bootstrap yordamida responsiv web sahifalar yaratdim.
-- **Component-based Architecture**: React.js va Next.js bilan ishlashda UI komponentalaridan foydalandim.
-- **Version Control**: Git va GitHub orqali kodimni boshqarish, kollaboratsiya qilish.
-  
----
-
-## 🛠 Loyihalar
-
-### **1. Admin Dashboard**
-- Foydalanuvchilar uchun ma'lumotlar paneli yaratish. 
-- React.js, Tailwind CSS yordamida interaktiv va responsiv dizaynni amalga oshirdim.
-- Loyihada foydalanuvchi interfeysi va real vaqtda ma'lumotlar ko'rsatilgan.
-
-### **2. To-Do App**
-- Vazifalarni boshqarish uchun ilova yaratdim.
-- React.js va Tailwind CSS yordamida foydalanuvchilar uchun qulay va intuitiv interfeys taqdim etildi.
-  
-### **3. GitHub Clone**
-- GitHub interfeysining oddiy versiyasini yaratdim, foydalanuvchilarga repositorylarni ko'rish va o'zlarini yaratish imkoniyatini berdim.
-- React Router yordamida sahifalararo navigatsiyani amalga oshirdim.
-
-### **4. Boshqa Kichik Ilovalar**
-- **Quiz App**, **Weather App**, **Landing Page** va boshqa responsiv web sahifalar yaratdim.
-- Turli dasturiy ta'minotlarni va UI dizaynlarini o'z ichiga olgan kichik loyihalar ustida ishladim.
+### Loyihalar:
+- **Admin Dashboard**: React.js va Tailwind CSS yordamida foydalanuvchi interfeysi va ma'lumotlar panelini yaratdim. Loyihada statik ma'lumotlar bilan ishladim va UI/UX dizaynga e'tibor berdim.
+- **To-Do App**: Vazifalarni boshqarish uchun ilova yaratdim, bunda React.js va Tailwind CSS yordamida qulay va intuitiv dizaynni amalga oshirdim.
+- **GitHub Clone**: GitHub interfeysining oddiy versiyasini yaratdim, foydalanuvchilarga repositorylarni ko'rish, yaratish va boshqarish imkoniyatini berdim.
+- **Boshqa Kichik Ilovalar**: **Quiz App**, **Weather App**, **Landing Page** kabi responsiv web sahifalar yaratdim va foydalanuvchi tajribasini yaxshilashga harakat qildim.
 
 ---
 
 ## 🌱 Kelajakdagi Maqsadlar
 
-- **Katta Loyihalar Ustida Ishlash**: Yirik va murakkab frontend loyihalarida ishlashni xohlayman, ayniqsa, jamoa bilan hamkorlikda.
-- **Yangi Texnologiyalarni O'rganish**: Web dasturlashning yangi texnologiyalari va yondashuvlarini, shu jumladan **WebAssembly**, **GraphQL**, **Jamstack** va boshqalarni o'rganishni davom ettirish.
-- **Dasturlashda Ustuvorlikni Oshirish**: **React.js**, **Next.js**, va **TypeScript** bo'yicha chuqurroq bilim olishni rejalashtirganman.
+- **Katta Loyihalarda Ishlash**: Endi murakkab, katta loyihalarda ishlashni istayman. Bu orqali yangi texnologiyalarni o'rganib, chuqurroq tajriba orttirmoqchiman.
+- **Dasturlashni O'rgatish**: **Dasturlashni boshqalarga o'rgatish** maqsadida resurslar yaratmoqchiman. O'z bilimlarimni boshqalarga etkazish, jamoat bilan tajriba almashish va o'qituvchilikni rivojlantirishni rejalashtirganman.
+- **Yangi Texnologiyalarni O'rganish**: **WebAssembly**, **GraphQL**, **Jamstack** kabi texnologiyalarni o'rganish va ishlatishga qiziqishim bor. Bu men uchun yangi imkoniyatlar va muammolarni yechish uchun foydali bo'ladi.
 
 ---
 
@@ -62,6 +45,7 @@ Men web dasturlashning **frontend qismini 1.5 yil davomida mustaqil ravishda o'r
 - **Text Editors**: VS Code, Sublime Text
 - **Design Tools**: Figma, Adobe XD
 - **Deployment**: Netlify, Vercel, GitHub Pages
+- **Package Managers**: NPM, Yarn
 
 ---
 
@@ -70,11 +54,14 @@ Men web dasturlashning **frontend qismini 1.5 yil davomida mustaqil ravishda o'r
 - **LinkedIn**: [Samandar Hodiev](https://www.linkedin.com/in/samandarhodiev)
 - **Email**: [email@example.com](mailto:email@example.com)
 - **GitHub**: [samandarhodiev](https://github.com/samandarhodiev)
+- **Twitter**: [@samandarhodiev](https://twitter.com/samandarhodiev) *(agar bor bo'lsa)*
 
 ---
 
-## 🚀 Mening Karyeram Haqida
+## 🚀 Karyera Yo'lim
 
-Men frontend dasturchisi sifatida o'zimni **mustaqil o'rgangan** va zamonaviy texnologiyalar bilan ishlashni yaxshi ko'radigan inson deb ta'riflayman. Yangi loyihalar va tajriba orttirishni davom ettirishni istayman. O'z bilimlarimni kengaytirib, katta va murakkab loyihalar ustida ishlashni maqsad qilib qo'yganman.
+Men o'z karyeramni **frontend dasturchisi sifatida boshladim** va bir necha yillar davomida **mustaqil o'rganish** orqali katta bilim va tajriba orttirdim. Bugungi kunda men **o'rgatish** va **yangi loyihalarda ishlash** istagidaman. Kichik loyihalardan boshlab, katta va murakkab dasturlash sohalarida o'z bilimlarimni amaliyotga tatbiq etishni maqsad qilganman.
+
+Agar siz bilan hamkorlik qilishni xohlasangiz yoki savollaringiz bo'lsa, menga **email** yoki **LinkedIn** orqali murojaat qilishingiz mumkin.
 
 
