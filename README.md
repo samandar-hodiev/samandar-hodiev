@@ -49,11 +49,11 @@ Dasturlashdan maqsadim — boshqalarga dasturlashni o'rgatish, yangi boshlovchil
 
 ### 🔗 **Men Bilan Bog'lanish:**
 
-- [Phone](+998943371102)
+- **+998943371102**
   
 - [Telegram](https://t.me/samandar_hodiev)
   
-- [Email] - **samandarkhodiev04@gmail.com**
+- **samandarkhodiev04@gmail.com**
   
 - [GitHub](https://github.com/samandarhodiev-hodiev)
 
