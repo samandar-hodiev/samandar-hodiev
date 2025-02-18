@@ -62,7 +62,21 @@ Dasturlashdan maqsadim — boshqalarga dasturlashni o'rgatish, yangi boshlovchil
 
 **HTML5**, **CSS3**, **Bootstrap**, **TailwindCSS**, **JavaScript**, **ReactJS**, **ReactRouter**, **Axios**, **NextJS**, **TypeScript**, **Git**, **GitHub**, **Figma**
 
-![HTML5 Logo](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 Logo](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap Logo](https://img.icons8.com/color/48/000000/bootstrap.png) ![TailwindCSS Logo](https://img.icons8.com/color/48/000000/tailwindcss.png) ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png) ![ReactJS Logo](https://img.icons8.com/color/48/000000/react-native.png) ![ReactRouter Logo](https://img.icons8.com/color/48/000000/react-router.png) ![Axios Logo](https://img.icons8.com/color/48/000000/axios.png) ![NextJS Logo](https://img.icons8.com/color/48/000000/nextjs.png) ![TypeScript Logo](https://img.icons8.com/color/48/000000/typescript.png) ![Git Logo](https://img.icons8.com/color/48/000000/git.png) ![GitHub Logo](https://img.icons8.com/color/48/000000/github-2.png) ![Figma Logo](https://img.icons8.com/color/48/000000/figma.png)
+<p align="center">
+    <img src="https://img.icons8.com/color/200/000000/html-5.png" width="200px" height="200px" alt="HTML5 Logo" />
+    <img src="https://img.icons8.com/color/200/000000/css3.png" width="200px" height="200px" alt="CSS3 Logo" />
+    <img src="https://img.icons8.com/color/200/000000/bootstrap.png" width="200px" height="200px" alt="Bootstrap Logo" />
+    <img src="https://img.icons8.com/color/200/000000/tailwindcss.png" width="200px" height="200px" alt="TailwindCSS Logo" />
+    <img src="https://img.icons8.com/color/200/000000/javascript.png" width="200px" height="200px" alt="JavaScript Logo" />
+    <img src="https://img.icons8.com/color/200/000000/react-native.png" width="200px" height="200px" alt="ReactJS Logo" />
+    <img src="https://img.icons8.com/color/200/000000/react-router.png" width="200px" height="200px" alt="React Router Logo" />
+    <img src="https://img.icons8.com/color/200/000000/axios.png" width="200px" height="200px" alt="Axios Logo" />
+    <img src="https://img.icons8.com/color/200/000000/nextjs.png" width="200px" height="200px" alt="NextJS Logo" />
+    <img src="https://img.icons8.com/color/200/000000/typescript.png" width="200px" height="200px" alt="TypeScript Logo" />
+    <img src="https://img.icons8.com/color/200/000000/git.png" width="200px" height="200px" alt="Git Logo" />
+    <img src="https://img.icons8.com/color/200/000000/github-2.png" width="200px" height="200px" alt="GitHub Logo" />
+    <img src="https://img.icons8.com/color/200/000000/figma.png" width="200px" height="200px" alt="Figma Logo" />
+</p>
 
 ---
 
@@ -73,4 +87,3 @@ Dasturlashni o'rganish – bu davomiy jarayon va har bir yangi qadamda o'rgangan
 ---
 
 **Go Ahead, Code with Passion, and Change the World! 🚀**
-
