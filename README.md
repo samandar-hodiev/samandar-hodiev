@@ -53,7 +53,7 @@ Dasturlashdan maqsadim — boshqalarga dasturlashni o'rgatish, yangi boshlovchil
   
 - [Telegram](https://t.me/samandar_hodiev)
   
-- [Email](samandarkhodiev04@gmail.com)
+- [Email] - **samandarkhodiev04@gmail.com**
   
 - [GitHub](https://github.com/samandarhodiev-hodiev)
 
