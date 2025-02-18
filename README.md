@@ -51,7 +51,7 @@ Dasturlashdan maqsadim — boshqalarga dasturlashni o'rgatish, yangi boshlovchil
 
 - [Phone](+998943371102)
   
-- [Telegram](https:/t.me/samandar_hodiev)
+- [Telegram](https://t.me/samandar_hodiev)
   
 - [Email](samandarkhodiev04@gmail.com)
   
