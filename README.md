@@ -1,12 +1,8 @@
 # Salom! Men [Ismingiz]
 
-[GitHub profil manzilingiz](https://github.com/samandar-hodiev)  
-[LinkedIn profil manzilingiz](https://www.linkedin.com/in/yourusername)  
-[Shaxsiy saytingiz yoki portfoliyongiz](https://www.yoursite.com)  
-
 ## 📖 Haqimda
 
-Men yangi boshlovchi dasturchiman, o'z bilimlarimni oshirish va zamonaviy texnologiyalarni o'rganish uchun doimo izlanib kelaman. Hozirda [dasturlash tilini yoki texnologiyalarni o'rganish] ustida ishlayapman va o'zimning dasturlash malakalarimni rivojlantirishga intilaman.
+Men yangi boshlovchi dasturchiman, o'z bilimlarimni oshirish va zamonaviy texnologiyalarni o'rganish uchun doimo izlanib kelaman. Hozirda [dasturlash tilini yoki texnologiyalarni o'rganish] ustida ishlayapman va o'zimning dasturlash malakalarimni rivojlantirishga intilaman.!
 
 ## 🔧 Malakalar
 
@@ -19,14 +15,14 @@ Men yangi boshlovchi dasturchiman, o'z bilimlarimni oshirish va zamonaviy texnol
 
 Men hali professional ish tajribasiga ega emasman, lekin quyidagi yo'nalishlarda tajriba va amaliyotga ega bo'ldim:
 
-- **Onlayn kurslar va o'quv materiallari:** Dasturlash bo'yicha bir nechta onlayn kurslarni tamomladim, jumladan [kurs nomi, masalan, "freeCodeCamp", "Codecademy", "Udemy"].
-- **Loyihalar:** O'zimni tajriba qilish uchun kichik web-ilovalar va dasturlar yaratdim. Bu loyihalar men uchun katta o'rganish tajribasini berdi.
+- **Onlayn kurslar va o'quv materiallari:** Dasturlash bo'yicha bir nechta onlayn kurslarni tamomladim.! 
+- **Loyihalar:** O'zimni tajriba qilish uchun kichik web-ilovalar va dasturlar ishlabchiqdim. Bu loyihalar men uchun katta o'rganish tajribasini berdi.
 
 ## 📚 Ta'lim
 
-- **[Universitet nomi yoki o'quv markazi]**, [Bakalavr/Magistr] - [Yo'nalish]  
-  *2019 - 2023*  
-  (Agar hali o'qishni tugatmagan bo'lsangiz, shu tarzda yozing)
+- **[“TIQXMMI” Milliy tadqiqot universitetining Qarshi irrigatsiya va agrotexnologiyalar instituti]**, [Bakalavr]. 
+  *2020 - 2024*  
+ 
 
 ## 📈 Loyihalar
 
