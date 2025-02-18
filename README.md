@@ -4,14 +4,14 @@
 
 📚 **Maqsadim**: Dasturlashni o‘rganish nafaqat o‘zim uchun, balki boshqalarga ham o‘rgatish. Men dasturlashni yangi boshlovchilar uchun o‘rgatish va ularga yordam berish maqsadida YouTube kanalida JavaScript bo‘yicha darsliklar tayyorlashni boshladim.
 
-💻 **Tajribam**: Hozirgi kunga qadar katta loyihalarda ishtirok etmagan bo‘lsam ham, ba'zi kichik va o‘rta hajmdagi loyihalar yaratdim, jumladan:
-- **Static va Responsive Web Sahifalar**: TailwindCSS yordamida mukammal responsiv sahifalar yaratdim.
-- **ReactJS Loyihalari**: Admin dashboard, GitHub clone, Todo app kabi dinamik va interaktiv ilovalar yaratdim.
+💻 **Tajribam**: Hozirgi kunga qadar katta loyihalarda ishtirok etmagan bo‘lsam ham, ba'zi kichik va o‘rta hajmdagi loyihalarni ishlabchiqdim, jumladan:
+- **Static va Responsive Web Sahifalar**: TailwindCSS yordamida mukammal responsiv sahifalar ishlabchiqdim.
+- **ReactJS Loyihalari**: Admin dashboard, GitHub clone, Todo app kabi dinamik va interaktiv ilovalar ishlabchiqdim.
 
 🔧 **Asosiy Ishlash Vositalarim**:
 - **VS Code** va **WebStorm** — Kod yozish va tahrir qilish uchun eng sevimli IDE'larim.
 - **Git va GitHub** — Kodni versiyalash va jamoaviy ishlarni samarali tashkil etish uchun zarur vositalar.
-- **Figma** — Dizaynlar yaratish va prototiplar tayyorlashda foydalanaman.
+- **Figma** — Dizaynlar ishlabchiqish va prototiplar tayyorlashda foydalanaman.
 
 ## **Aloqa Ma'lumotlari**
 
@@ -24,7 +24,7 @@ Agar menga bog'lanmoqchi bo‘lsangiz, quyidagi aloqalar orqali murojaat qilishi
 
 Men foydalanadigan texnologiyalar:
 - **HTML5**, **CSS3**, **Sass**, **Bootstrap**, **Tailwind CSS**
-- **JavaScript**, **ReactJS**, **React Router**, **NextJS**, **TypeScript**
+- **JavaScript**, **ReactJS**, **React Router**, **Axios**, **NextJS**, **TypeScript**
 - **Git**, **GitHub**
 - **Figma**
 
