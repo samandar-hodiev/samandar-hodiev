@@ -75,7 +75,8 @@ Men frontend dasturchisi sifatida o'zimni **mustaqil o'rgangan** va zamonaviy te
 
 | **Bootstrap** | **Tailwind CSS** | **React.js** |
 |:---:|:---:|:---:|
-| ![Bootstrap](https://img.icons8.com/color/300/000000/bootstrap.png) | ![Tailwind CSS]([https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png])| ![React JS](https://img.icons8.com/color/300/000000/react-native.png) |
+| ![Bootstrap](https://img.icons8.com/color/300/000000/bootstrap.png) | ![Tailwind CSS](https://github.com/user-attachments/assets/2c025fa6-5e1b-479b-8324-1cfdb83a1bc6)
+| ![React JS](https://img.icons8.com/color/300/000000/react-native.png) |
 
 | **Next.js** | **TypeScript** | **Node.js** |
 |:---:|:---:|:---:|
