@@ -1,55 +1,56 @@
 # 🌟 Samandar Hodiev | Frontend Developer 🌟
 
-**Dasturlash sohasida mustaqil o'qigan, yaratgan, va o'rgatishga tayyor bo'lgan frontend mutaxassisi!**
+**Frontend Dasturchisi | Mustaqil O'rganish | Dasturlashni O'rgatishga Tayyor O'qituvchi!**
 
-Salom! Men **Samandar Hodiev**, o'z bilimlarini mustaqil ravishda o'rgangan va hozirda frontend dasturlashda o'zini yuqori darajada rivojlantirgan bir dasturchiman. Sizning ko'rsatgan har bir loyihangizga o'z qo'limni qo'yish va dasturlashni o'rgatishda boshqalarga yordam berish – bu mening hayotiy maqsadlarimdan biri. Mening sayohatimda foydalanadigan texnologiyalarni kashf qilishni davom etaman, chunki bu dunyoda hech narsa doimiy emas.  
+Salom! Men **Samandar Hodiev**, frontend dasturchiman. Dasturlashni o'rgatish, yaratish va o'z bilimlarimni boshqalar bilan bo'lishish – bu mening hayotiy maqsadlarimdan biri. Men o'z bilimlarimni mustaqil ravishda o'rgandim va turli texnologiyalarni o'zlashtirdim. Hozirda HTML5, CSS3, Sass, TailwindCSS, Bootstrap, JavaScript, ReactJS, React Router, Axios, NextJS, TypeScript, Git va GitHub kabi texnologiyalarda malakaga egaman.  
 
-### 🎯 Mening Maqsadlarim:
-
-- **Dasturlashni O'rgatish:** O'zimni o'qituvchi sifatida rivojlantirib, yangi boshlovchilarni dasturlashning asoslariga yo'naltirish.
-- **Innovatsiyalar yaratish:** Yangi texnologiyalarni o'rganish va yanada ilg'or frontend hamda backend texnologiyalarini o'zlashtirish (Node.js, Express.js va boshqalar).
-- **Amaliy Loyihalar:** Frontend va backendning mukammal uyg'unligini yaratgan yirik va murakkab loyihalar ishlab chiqish.
+Dasturlashdan maqsadim — boshqalarga dasturlashni o'rgatish, yangi boshlovchilarga ko'maklashish va ular bilan bilganlarimni bo'lishishdir. Men yaqinda **JavaScript** bo'yicha yangi boshlovchilar uchun video darslik tayyorlab, **YouTube** kanalida joylashtirishni boshladim.
 
 ---
 
-### 💻 Bilaman va Ishlataman:
+### 🎯 **Maqsadlarim:**
 
-- **Frontend**:  
-  - **HTML5**, **CSS3**, **Sass**, **TailwindCSS**, **Bootstrap**  
-  - **JavaScript**, **TypeScript**  
-  - **ReactJS**, **NextJS**, **React Router**
+- **Dasturlashni O'rgatish:** O'z bilimlarimni boshqalarga o'rgatish va ular bilan bilimlarni bo'lishish.
+- **Backendni O'rganish:** Yaqin orada **Node.js** ni o'rganishni boshlash va server-side dasturlashda o'z malakamni oshirish.
+- **Loyihalar Yaratish:** Frontend va backend bo'yicha amaliy va murakkab loyihalarni yaratib, ularni amalga oshirish.
 
-- **Version Control**:  
+---
+
+### 💻 **Texnologiyalarni Bilib Ishlataman:**
+
+- **Frontend Dasturlash:**
+  - **HTML5**, **CSS3**, **Sass**, **TailwindCSS**, **Bootstrap**
+  - **JavaScript**, **TypeScript**
+  - **ReactJS**, **NextJS**, **React Router**, **Axios**
+
+- **Version Control & Tools:**
   - **Git**, **GitHub**
 
-- **Design**:  
+- **UI/UX Dizayn:**
   - **Figma**
 
-- **Editorlar**:  
+- **Dastur Muhitlari:**
   - **VS Code**, **WebStorm**
 
 ---
 
-### 🚀 Loyihalarim:
+### 🚀 **Loyihalarim:**
 
-Men yaratgan ba'zi ajoyib loyihalarim:
-
-- **Admin Dashboard:** ReactJS asosida, mukammal dizayni va interaktivligi bilan rivojlangan admin panel.
-- **GitHub Clone:** GitHub’ning oddiy kloni bo'lib, foydalanuvchilarga repo yaratish va tahrirlash imkoniyatlari beradi.
-- **To-Do App:** Foydalanuvchilar uchun vazifalar qo'shish va boshqarishni osonlashtiruvchi ReactJS ilovasi.
-- **Responsive Web Sahifalar:** TailwindCSS yordamida yaratgan, mobil va desktop versiyalari uchun moslashuvchan veb sahifalar.
+1. **Admin Dashboard**: ReactJS asosida ishlangan interaktiv va intuitiv admin dashboard. Foydalanuvchilarni kuzatish, statistikani ko'rsatish va boshqarish imkoniyatlari.
+2. **GitHub Clone**: GitHub platformasining oddiy kloni, foydalanuvchilarga repo yaratish, ularni tahrirlash va boshqarish imkoniyatlarini beradi.
+3. **To-Do App**: JavaScript va ReactJS asosida ishlab chiqilgan, foydalanuvchilarga vazifalar yaratish, tahrirlash va boshqarish imkoniyatlarini taqdim etadi.
+4. **Responsive Web Sahifalar**: TailwindCSS yordamida mobil va desktop versiyalari uchun moslashuvchan, statik veb sahifalar.
 
 ---
 
-### 🚀 Texnologiyalarni O'rganishda Davom Etaman:
-- **Node.js**: Backendda ishlashni o'rganishga qaror qilganimdan so'ng, samarali serverlar yaratish uchun tizimli yondashuvni rivojlantiraman.
-- **Express.js**: RESTful API yaratish va backendni quvvatlash uchun ideal framework.
-- **MongoDB**: NoSQL ma'lumotlar bazalari va ular bilan ishlashni o'rganish.
-- **GraphQL**: Ma'lumotlarni olish va uzatishning yangi usullarini o'rganish.
+### 🔥 **Kelajakdagi Maqsadlarim:**
+
+- **Node.js va Backend Dasturlash**: Endi men backend dasturlashni o'rganishga qaror qilganman. Bu orqali web-serverlar yaratish va ma'lumotlar bazalari bilan ishlashni o'zlashtiraman.
+- **GraphQL**: Ma'lumotlarni olish va uzatishning yangi usullari bo'yicha bilimlarimni kengaytirish.
 
 ---
 
-### 🔗 Mening Bog'lanishim:
+### 🔗 **Mening Bog'lanishim:**
 
 - [LinkedIn](https://www.linkedin.com/in/samandarhodiev)
 - [YouTube Kanalim](https://www.youtube.com/c/samandarhodiev)
@@ -57,23 +58,19 @@ Men yaratgan ba'zi ajoyib loyihalarim:
 
 ---
 
-### 🌈 Texnologiya Logolari:
+### 🌈 **Texnologiyalar va Logolar:**
 
-**HTML5**, **CSS3**, **Bootstrap**, **TailwindCSS**, **JavaScript**, **ReactJS**, **ReactRouter**, **NextJS**, **TypeScript**, **Git**, **GitHub**, **Figma**
+**HTML5**, **CSS3**, **Bootstrap**, **TailwindCSS**, **JavaScript**, **ReactJS**, **ReactRouter**, **Axios**, **NextJS**, **TypeScript**, **Git**, **GitHub**, **Figma**
 
-![HTML5 Logo](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 Logo](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap Logo](https://img.icons8.com/color/48/000000/bootstrap.png) ![TailwindCSS Logo](https://img.icons8.com/color/48/000000/tailwindcss.png) ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png) ![ReactJS Logo](https://img.icons8.com/color/48/000000/react-native.png) ![ReactRouter Logo](https://img.icons8.com/color/48/000000/react-router.png) ![NextJS Logo](https://img.icons8.com/color/48/000000/nextjs.png) ![TypeScript Logo](https://img.icons8.com/color/48/000000/typescript.png) ![Git Logo](https://img.icons8.com/color/48/000000/git.png) ![GitHub Logo](https://img.icons8.com/color/48/000000/github-2.png) ![Figma Logo](https://img.icons8.com/color/48/000000/figma.png)
-
----
-
-### 🔥 Dasturlashdagi Kelajak:
-
-Dasturlashni o'rganish nafaqat bilimlarimni kengaytirish, balki men uchun boshqa odamlarni o'rgatish va ularni dasturlash dunyosiga olib kirish imkoniyatini beradi. Mening ishlarim va loyiha tajribalarimning har bir qismi – bu o'zimni rivojlantirish va kelajakdagi yirik muvaffaqiyatlarga yo'lni boshlash uchun bir qadamdir. Men uchun har bir yangi qadam va yangi tajriba – bu kelajakdagi ulkan imkoniyatlarning poydevori.
+![HTML5 Logo](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 Logo](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap Logo](https://img.icons8.com/color/48/000000/bootstrap.png) ![TailwindCSS Logo](https://img.icons8.com/color/48/000000/tailwindcss.png) ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png) ![ReactJS Logo](https://img.icons8.com/color/48/000000/react-native.png) ![ReactRouter Logo](https://img.icons8.com/color/48/000000/react-router.png) ![Axios Logo](https://img.icons8.com/color/48/000000/axios.png) ![NextJS Logo](https://img.icons8.com/color/48/000000/nextjs.png) ![TypeScript Logo](https://img.icons8.com/color/48/000000/typescript.png) ![Git Logo](https://img.icons8.com/color/48/000000/git.png) ![GitHub Logo](https://img.icons8.com/color/48/000000/github-2.png) ![Figma Logo](https://img.icons8.com/color/48/000000/figma.png)
 
 ---
 
-**Yo'llanma:** O'zgarishga, rivojlanishga va o'z orzularimni ro'yobga chiqarishga qadam bosib borganimdan juda mamnunman. Agar siz ham shu yo'lda borishni istasangiz, men har doim yordamga tayyorman. Aytgancha, agar sizda biron bir savol yoki maslahat bo'lsa, bemalol yozing!
+### 📝 **Fikrlarim va Tavsiyalarim:**
+
+Dasturlashni o'rganish – bu davomiy jarayon va har bir yangi qadamda o'rgangan bilimlaringiz sizni yangi yutuqlarga olib keladi. Agar siz ham dasturlashga qiziqsangiz yoki boshlamoqchi bo'lsangiz, men sizni har doim qo'llab-quvvatlashga tayyorman!
 
 ---
 
-**Go Ahead, Dream Big and Code with Passion! 🚀**
+**Go Ahead, Code with Passion, and Change the World! 🚀**
 
