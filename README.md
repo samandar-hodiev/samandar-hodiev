@@ -55,7 +55,7 @@ Dasturlashdan maqsadim — boshqalarga dasturlashni o'rgatish, yangi boshlovchil
   
 - **samandarkhodiev04@gmail.com**
   
-- [GitHub](https://github.com/samandarhodiev-hodiev)
+- [GitHub](https://github.com/samandar-hodiev)
 
 ---
 
