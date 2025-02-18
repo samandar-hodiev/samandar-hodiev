@@ -49,13 +49,12 @@ Dasturlashdan maqsadim — boshqalarga dasturlashni o'rgatish, yangi boshlovchil
 
 ### 🔗 **Men Bilan Bog'lanish:**
 
+- [Phone](+998943371102)
 - [Telegram](https:/t.me/samandar_hodiev)
 - [Email](samandarkhodiev04@gmail.com)
 - [GitHub](https://github.com/samandarhodiev-hodiev)
 
 ---
-
-### 👨‍💻 **Texnologiyalar va Logolar:**
 
 **HTML5**, **CSS3**, **Bootstrap**, **TailwindCSS**, **JavaScript**, **ReactJS**, **ReactRouter**, **Axios**, **NextJS**, **TypeScript**, **Git**, **GitHub**, **Figma**
 
