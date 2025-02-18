@@ -33,14 +33,14 @@ Men foydalanadigan texnologiyalar:
 
 <p style="center">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" width="200px" height="200px" alt="HTML5 Logo">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" width="200px" height="200px" alt="CSS3 Logo">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" width="200px" height="200px" alt="Sass Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png" width="200px" height="200px" alt="CSS3 Logo">
+  <img src="https://static-00.iconduck.com/assets.00/sass-icon-2048x2048-js3fulee.png" width="200px" height="200px" alt="Sass Logo">
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" width="200px" height="200px" alt="Bootstrap Logo">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg" width="200px" height="200px" alt="Tailwind CSS Logo">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" width="200px" height="200px" alt="JavaScript Logo">
+  <img src="https://static-00.iconduck.com/assets.00/bootstrap-icon-2048x2048-az9h1iwm.png" width="200px" height="200px" alt="Bootstrap Logo">
+  <img src="https://img.icons8.com/color/512/tailwindcss.png" width="200px" height="200px" alt="Tailwind CSS Logo">
+  <img src="https://static.vecteezy.com/system/resources/previews/012/697/298/non_2x/3d-javascript-logo-design-free-png.png" width="200px" height="200px" alt="JavaScript Logo">
 </p>
 
 <p>
