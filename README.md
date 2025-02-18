@@ -2,9 +2,9 @@
 
 **Frontend Dasturchisi | Mustaqil O'rganish | Dasturlashni O'rgatishga Tayyor O'qituvchi!**
 
-Salom! Men **Samandar Hodiev**, frontend dasturchiman. Dasturlashni o'rgatish, yaratish va o'z bilimlarimni boshqalar bilan bo'lishish – bu mening hayotiy maqsadlarimdan biri. Men o'z bilimlarimni mustaqil ravishda o'rgandim va turli texnologiyalarni o'zlashtirdim. Hozirda HTML5, CSS3, Sass, TailwindCSS, Bootstrap, JavaScript, ReactJS, React Router, Axios, NextJS, TypeScript, Git va GitHub kabi texnologiyalarda malakaga egaman.  
+Salom! Men **Samandar Hodiev**, frontend dasturchiman. Dasturlashni o'rgatish, ishlabchiqish va o'z bilimlarimni boshqalar bilan bo'lishish – bu mening hayotiy maqsadlarimdan biri. Men o'z bilimlarimni mustaqil ravishda o'rgandim va turli texnologiyalarni o'zlashtirdim. Hozirda HTML5, CSS3, Sass, TailwindCSS, Bootstrap, JavaScript, ReactJS, React Router, Axios, NextJS, TypeScript, Git va GitHub kabi texnologiyalarda malakaga egaman.!
 
-Dasturlashdan maqsadim — boshqalarga dasturlashni o'rgatish, yangi boshlovchilarga ko'maklashish va ular bilan bilganlarimni bo'lishishdir. Men yaqinda **JavaScript** bo'yicha yangi boshlovchilar uchun video darslik tayyorlab, **YouTube** kanalida joylashtirishni boshladim.
+Dasturlashdan maqsadim — boshqalarga dasturlashni o'rgatish, yangi boshlovchilarga ko'maklashish va ular bilan bilganlarimni bo'lishishdir. Men yaqinda **JavaScript** bo'yicha yangi boshlovchilar uchun video darslik tayyorlab, **YouTube** kanalida joylashtirishni boshladim.!
 
 ---
 
@@ -12,22 +12,19 @@ Dasturlashdan maqsadim — boshqalarga dasturlashni o'rgatish, yangi boshlovchil
 
 - **Dasturlashni O'rgatish:** O'z bilimlarimni boshqalarga o'rgatish va ular bilan bilimlarni bo'lishish.
 - **Backendni O'rganish:** Yaqin orada **Node.js** ni o'rganishni boshlash va server-side dasturlashda o'z malakamni oshirish.
-- **Loyihalar Yaratish:** Frontend va backend bo'yicha amaliy va murakkab loyihalarni yaratib, ularni amalga oshirish.
+- **Loyihalar Ishlabchiqish:** Frontend va backend bo'yicha amaliy va murakkab loyihalarni ishlabchiqib, ularni amalga oshirish.
 
 ---
 
-### 💻 **Texnologiyalarni Bilib Ishlataman:**
+### 💻 **Quyidagi Texnologiyalarni Bilib Ishlataman:**
 
 - **Frontend Dasturlash:**
   - **HTML5**, **CSS3**, **Sass**, **TailwindCSS**, **Bootstrap**
   - **JavaScript**, **TypeScript**
-  - **ReactJS**, **NextJS**, **React Router**, **Axios**
+  - **ReactJS**, **NextJS**, **React Router**, **Axios**, **Etc**...
 
 - **Version Control & Tools:**
   - **Git**, **GitHub**
-
-- **UI/UX Dizayn:**
-  - **Figma**
 
 - **Dastur Muhitlari:**
   - **VS Code**, **WebStorm**
@@ -39,7 +36,7 @@ Dasturlashdan maqsadim — boshqalarga dasturlashni o'rgatish, yangi boshlovchil
 1. **Admin Dashboard**: ReactJS asosida ishlangan interaktiv va intuitiv admin dashboard. Foydalanuvchilarni kuzatish, statistikani ko'rsatish va boshqarish imkoniyatlari.
 2. **GitHub Clone**: GitHub platformasining oddiy kloni, foydalanuvchilarga repo yaratish, ularni tahrirlash va boshqarish imkoniyatlarini beradi.
 3. **To-Do App**: JavaScript va ReactJS asosida ishlab chiqilgan, foydalanuvchilarga vazifalar yaratish, tahrirlash va boshqarish imkoniyatlarini taqdim etadi.
-4. **Responsive Web Sahifalar**: TailwindCSS yordamida mobil va desktop versiyalari uchun moslashuvchan, statik veb sahifalar.
+4. **Responsive Web Sahifalar**: TailwindCSS yordamida mobil va desktop versiyalari uchun moslashuvchan, asosan statik veb sahifalar.
 
 ---
 
@@ -50,15 +47,15 @@ Dasturlashdan maqsadim — boshqalarga dasturlashni o'rgatish, yangi boshlovchil
 
 ---
 
-### 🔗 **Mening Bog'lanishim:**
+### 🔗 **Men Bilan Bog'lanish:**
 
-- [LinkedIn](https://www.linkedin.com/in/samandarhodiev)
-- [YouTube Kanalim](https://www.youtube.com/c/samandarhodiev)
-- [GitHub Profilim](https://github.com/samandarhodiev)
+- [Telegram](https:/t.me/samandar_hodiev)
+- [Email](samandarkhodiev04@gmail.com)
+- [GitHub](https://github.com/samandarhodiev-hodiev)
 
 ---
 
-### 🌈 **Texnologiyalar va Logolar:**
+### 👨‍💻 **Texnologiyalar va Logolar:**
 
 **HTML5**, **CSS3**, **Bootstrap**, **TailwindCSS**, **JavaScript**, **ReactJS**, **ReactRouter**, **Axios**, **NextJS**, **TypeScript**, **Git**, **GitHub**, **Figma**
 
