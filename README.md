@@ -71,7 +71,7 @@ Men frontend dasturchisi sifatida o'zimni **mustaqil o'rgangan** va zamonaviy te
 
 | **HTML5** | **CSS3** | **Sass** |
 |:---:|:---:|:---:|
-| ![HTML5](https://img.icons8.com/color/500/000000/html-5.png) | ![CSS3](https://img.icons8.com/color/300/000000/css3.png) | ![Sass](https://img.icons8.com/color/300/000000/sass.png) |
+| ![HTML5](https://img.icons8.com/color/300/000000/html-5.png) | ![CSS3](https://img.icons8.com/color/300/000000/css3.png) | ![Sass](https://img.icons8.com/color/300/000000/sass.png) |
 
 | **Bootstrap** | **Tailwind CSS** | **React.js** |
 |:---:|:---:|:---:|
@@ -84,6 +84,7 @@ Men frontend dasturchisi sifatida o'zimni **mustaqil o'rgangan** va zamonaviy te
 
 | **Git** | **GitHub** |
 |:---:|:---:|
-| ![Git](https://img.icons8.com/color/300/000000/git.png) | ![GitHub](https://img.icons8.com/ios-filled/300/000000/github.png) |
+| ![Git](https://img.icons8.com/color/300/000000/git.png) | ![GitHub](![image](https://github.com/user-attachments/assets/aae99c2a-f1b6-4dcd-bca3-bded666bb9ad)
+) |
 
 
