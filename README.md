@@ -1,6 +1,6 @@
 # Salom! Men [Ismingiz]
 
-[GitHub profil manzilingiz](https://github.com/yourusername)  
+[GitHub profil manzilingiz](https://github.com/samandar-hodiev)  
 [LinkedIn profil manzilingiz](https://www.linkedin.com/in/yourusername)  
 [Shaxsiy saytingiz yoki portfoliyongiz](https://www.yoursite.com)  
 
