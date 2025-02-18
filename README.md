@@ -1,47 +1,46 @@
 # Samandar Hodiev - Frontend Developer
 
-Salom! Men Samandar Hodiev, mustaqil o‘rganish orqali Frontend Dasturlashni o‘rgandim. Men HTML5, CSS3, Sass, Tailwind CSS, Bootstrap, JavaScript, ReactJS, NextJS, TypeScript, Git va GitHub kabi texnologiyalar bilan ishlashni bilaman. Hozirda backend dasturlashni o‘rganishni rejalashtirganman va dasturlash tillarini chuqurroq o‘rganishga davom etmoqchiman.
+Salom! Men Samandar Hodiev, mustaqil o‘rganish (self-study) orqali frontend dasturlashni o‘rgandim. HTML5, CSS3, Sass, Tailwind CSS, Bootstrap, JavaScript, ReactJS, NextJS, TypeScript, Git va GitHub kabi texnologiyalarni bilaman. Hozirda backend dasturlashni o‘rganishga tayyorlanmoqdaman va dasturlash tillarini o‘rganishda davom etmoqchiman.
 
 ## Maqsadim
 
-Men o'z bilimlarimni boshqalarga o'rgatish va frontend dasturlash bo‘yicha video darslar tayyorlab, ulashish orqali hamjamiyatga hissa qo‘shishni maqsad qilganman. Yaqinda JavaScriptni yangi boshlovchilar uchun o‘rgatadigan video darslik tayyorlab, YouTube kanalimga joyladim.
+Dasturlashni o‘rganish nafaqat o‘zim uchun, balki boshqalarga ham o‘rgatishdir. Men dasturlashni yangi boshlovchilar uchun o‘rgatishga intilaman va yaqinda JavaScriptni yangi boshlovchilar uchun tayyorlangan video darsliklarni YouTube kanalida joyladim. Shuningdek, o‘z bilimlarimni doimo oshirish va yangi texnologiyalarni o‘rganishda davom etaman.
 
 ## Tajribam
 
-Dasturlashda hali katta loyihalarda qatnashgan emasman, ammo bir nechta static va responsive web sahifalarni ishlab chiqdim. Shuningdek, ReactJSda admin dashboard, GitHub clone, todo app kabi loyihalarni yaratdim. Ushbu loyihalar meni yanada professional va tajribali bo‘lishga undadi.
+Tajribamda juda katta loyihalarda qatnashgan emasman, ammo bir nechta kichik loyihalar yaratdim:
+- **Tailwind CSS** asosida static va responsive web sahifalar yaratdim.
+- **ReactJS** asosida admin dashboard, GitHub clone, Todo app kabi interaktiv dasturlarni ishlab chiqdim.
+
+Men har doim yangi imkoniyatlar va tajribalar uchun ochiqman va professional tarzda rivojlanishni davom ettiraman.
+
+## Ishlash Vositalari
+
+- **Visual Studio Code** va **WebStorm** — kod yozishda foydalanadigan asosiy tahrirlovchilar.
+- **Git va GitHub** — kodni versiya nazorati orqali boshqarish va jamoaviy ish uchun muhim vositalar.
+- **Figma** — dizaynlar yaratish va prototiplar tayyorlash uchun foydalanaman.
+
+## Bog'lanish
+
+Agar menga bog'lanmoqchi bo'lsangiz, quyidagi aloqalar orqali murojaat qilishingiz mumkin:
+
+- **Telegram**: [@samandar_hodiev](https://t.me/samandar_hodiev)
+- **Telefon**: +998943371102
+- **Email**: samandarkhodiev04@gmail.com
 
 ## Texnologiyalar
 
-- **HTML5, CSS3, Sass**: Web sahifalarini yaratish va dizayn qilish uchun asosiy texnologiyalar.
-- **Tailwind CSS, Bootstrap**: Responsive va moslashuvchan web dizayn yaratishda yordam beradi.
-- **JavaScript, ReactJS, React Router, NextJS**: Frontendni dinamik va interaktiv qilish uchun ishlatiladigan kutubxonalar va freymvorklar.
-- **TypeScript**: JavaScriptni kuchaytirib, yanada barqaror kod yozishga yordam beradi.
-- **Git, GitHub**: Versiya nazorati va kodni birgalikda ishlash uchun foydalanuvchi asboblari.
-- **Figma**: UX/UI dizayn yaratish va prototiplar tayyorlash uchun foydalanaman.
+Men ishlatgan va o'rganishni davom ettirayotgan texnologiyalar:
 
-## Ishlash Tajribasi
+- **HTML5**, **CSS3**, **Sass**, **Bootstrap**, **Tailwind CSS**
+- **JavaScript**, **ReactJS**, **React Router**, **NextJS**, **TypeScript**
+- **Git**, **GitHub**
+- **Figma**
 
-Hozirda hech qayerda ishlamayapman, ammo yangi imkoniyatlar uchun tayyorman va o‘z malakamni oshirishni davom ettiraman. Frontend dasturlash bo‘yicha o‘z bilimlarimni rivojlantirish va yangi loyiha va tajriba orttirishga intilaman.
+## Texnologiyalar haqida animatsion logolar
 
-## Video Darsliklar
-
-Men JavaScriptni yangi boshlovchilar uchun o‘rgatadigan video darslar tayyorlab, YouTube kanalida ulashdim. Bu darsliklar dasturlashni o‘rganishga qiziqadiganlar uchun foydali bo‘lishi mumkin.
+![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg) ![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg) ![Sass](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg) ![Bootstrap](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg) ![TailwindCSS](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg) ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg) ![ReactJS](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg) ![React Router](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/reactrouter.svg) ![NextJS](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nextdotjs.svg) ![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/typescript.svg) ![Git](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg) ![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg) ![Figma](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/figma.svg)
 
 ---
 
-## Texnologiyalarga oid animatsion logolar:
-
-![HTML5 Logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg)
-![CSS3 Logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg)
-![Sass Logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg)
-![Bootstrap Logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg)
-![Tailwind CSS Logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg)
-![JavaScript Logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg)
-![ReactJS Logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg)
-![React Router Logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/reactrouter.svg)
-![NextJS Logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/nextdotjs.svg)
-![TypeScript Logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/typescript.svg)
-![Git Logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg)
-![GitHub Logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg)
-![Figma Logo](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/figma.svg)
-
+**Agar siz ham dasturlashni o'rganishga qiziqsangiz yoki loyiha bo'yicha hamkorlik qilishni istasangiz, men bilan bog'laning!**
