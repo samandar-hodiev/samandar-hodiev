@@ -67,12 +67,22 @@ Men frontend dasturchisi sifatida o'zimni **mustaqil o'rgangan** va zamonaviy te
 
 ## 📸 Texnologiyalar
 
-![HTML5](https://img.icons8.com/color/120/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/120/000000/css3.png)
-![Sass](https://img.icons8.com/color/120/000000/sass.png)
-![Bootstrap](https://img.icons8.com/color/120/000000/bootstrap.png)
-![Tailwind CSS](https://img.icons8.com/color/120/000000/tailwind-css.png)
-![React JS](https://img.icons8.com/color/120/000000/react-native.png)
-![Next JS](https://img.icons8.com/ios-filled/120/000000/nextjs.png)
-![TypeScript](https://img.icons8.com/color/120/000000/typescript.png)
-![Node JS](https://img.icons8.com/color/120/000000/nodejs.png)
+### Texnologiyalar va Dasturlash Tillari
+
+| **HTML5** | **CSS3** | **Sass** |
+|:---:|:---:|:---:|
+| ![HTML5](https://img.icons8.com/color/300/000000/html-5.png) | ![CSS3](https://img.icons8.com/color/300/000000/css3.png) | ![Sass](https://img.icons8.com/color/300/000000/sass.png) |
+
+| **Bootstrap** | **Tailwind CSS** | **React.js** |
+|:---:|:---:|:---:|
+| ![Bootstrap](https://img.icons8.com/color/300/000000/bootstrap.png) | ![Tailwind CSS](https://img.icons8.com/color/300/000000/tailwind-css.png) | ![React JS](https://img.icons8.com/color/300/000000/react-native.png) |
+
+| **Next.js** | **TypeScript** | **Node.js** |
+|:---:|:---:|:---:|
+| ![Next JS](https://img.icons8.com/ios-filled/300/000000/nextjs.png) | ![TypeScript](https://img.icons8.com/color/300/000000/typescript.png) | ![Node JS](https://img.icons8.com/color/300/000000/nodejs.png) |
+
+| **Git** | **GitHub** |
+|:---:|:---:|
+| ![Git](https://img.icons8.com/color/300/000000/git.png) | ![GitHub](https://img.icons8.com/ios-filled/300/000000/github.png) |
+
+
