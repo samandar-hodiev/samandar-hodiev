@@ -75,8 +75,7 @@ Men frontend dasturchisi sifatida o'zimni **mustaqil o'rgangan** va zamonaviy te
 
 | **Bootstrap** | **Tailwind CSS** | **React.js** |
 |:---:|:---:|:---:|
-| ![Bootstrap](https://img.icons8.com/color/300/000000/bootstrap.png) | ![Tailwind CSS](https://github.com/user-attachments/assets/44f325f5-f236-43d7-b829-c535a41ab8e5)
-| ![React JS](https://img.icons8.com/color/300/000000/react-native.png) |
+| ![Bootstrap](https://img.icons8.com/color/300/000000/bootstrap.png) | ![Tailwind CSS](https://img.icons8.com/color/300/000000/tailwind-css.png) | ![React JS](https://img.icons8.com/color/300/000000/react-native.png) |
 
 | **Next.js** | **TypeScript** | **Node.js** |
 |:---:|:---:|:---:|
@@ -84,7 +83,5 @@ Men frontend dasturchisi sifatida o'zimni **mustaqil o'rgangan** va zamonaviy te
 
 | **Git** | **GitHub** |
 |:---:|:---:|
-| ![Git](https://img.icons8.com/color/300/000000/git.png) | ![GitHub](![image](https://github.com/user-attachments/assets/aae99c2a-f1b6-4dcd-bca3-bded666bb9ad)
-) |
-
+| ![Git](https://img.icons8.com/color/300/000000/git.png) | ![GitHub](https://img.icons8.com/ios-filled/300/000000/github.png) |
 
