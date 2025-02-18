@@ -4,37 +4,34 @@
 
 ---
 
-## 💻 Texnologiyalar
+## 🔧 Texnologiyalar
 - **HTML5**, **CSS3**, **SCSS**
 - **Tailwind CSS**, **Bootstrap**
 - **JavaScript**, **TypeScript**
 - **React.js**, **Next.js**
-- **React Router**
 
 ---
 
 ## 📚 Tajriba
-1. **1.5 yil davomida self-study** – Frontend dasturlashni mustaqil o'rgandim va ko'plab kichik loyihalar yaratdim.
-2. Loyihalarda **React UI komponentalaridan**, **React Router** va boshqa frontend texnologiyalaridan foydalandim.
+1. **1.5 yil davomida self-study** – Web dasturlashning frontend qismini mustaqil o'rgandim.
+2. **Responsive web sahifalar** yaratish tajribasi.
+3. **React.js** bilan kichik ilovalar yaratdim: Admin Dashboard, GitHub Clone, To-Do App va boshqa ilovalar.
 
 ---
 
-## 📈 Loyihalar
+## 🛠 Loyihalar
 - **Admin Dashboard** – Foydalanuvchi interfeysi va ma'lumotlar paneli.
-- **To-Do App** – Foydalanuvchilarga vazifalarni boshqarishga imkon beruvchi ilova.
+- **To-Do App** – Vazifalarni boshqarish ilovasi.
 - **GitHub Clone** – GitHub interfeysining oddiy versiyasi.
 
 ---
 
-## 🔧 Malakalar
-- **UI Design** va **Responsive Web Design**
-- **Component-based Architecture** va **State Management** (React)
-- **CSS Frameworks:** Tailwind CSS, Bootstrap
-- **Version Control:** Git, GitHub
+## 📈 Kelajakdagi maqsadlar
+- Katta va murakkab loyihalar ustida ishlash.
+- Frontend sohasida yanada chuqurroq tajriba orttirish va yangi texnologiyalarni o'rganish.
 
 ---
 
-## 📩 Mening bilan bog'lanish
-- **LinkedIn:** [Samandar Hodiev](https://www.linkedin.com/in/samandarhodiev)
-- **Email:** [email@example.com](mailto:email@example.com)
-
+## 📬 Mening bilan bog'lanish
+- **LinkedIn**: [Samandar Hodiev](https://www.linkedin.com/in/samandarhodiev)
+- **Email**: [email@example.com](mailto:email@example.com)
