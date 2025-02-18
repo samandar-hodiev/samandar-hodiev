@@ -85,4 +85,4 @@ Dasturlashni o'rganish – bu davomiy jarayon va har bir yangi qadamda o'rgangan
 
 ---
 
-**Go Ahead, Code with Passion, and Change the World! 🚀**
+** Change the World! 🚀**
