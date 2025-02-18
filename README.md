@@ -1,6 +1,6 @@
 # Samandar Hodiev
 
-**Frontend Developer | Self-Taught | Web Development Enthusiast | Aspiring Teacher**
+**Frontend Developer | Self-Taught | Aspiring Full-Stack Developer | Passionate Teacher**
 
 ---
 
@@ -16,34 +16,35 @@
 ### Frameworks va kutubxonalar:
 - **React.js**
 - **Next.js**
+- **Node.js** *(Kelajakda o'rganmoqchiman)*
 
 ---
 
 ## 💻 Tajriba
 
-**Frontend dasturchisi sifatida mustaqil ravishda o'rgandim**, o'rgangan texnologiyalarimni kichik, lekin foydali loyihalarda amalda sinab ko'rdim. Ushbu davrda o'zimni **responsiv dizayn**, **komponent asosida arxitektura** va **modern JavaScript kutubxonalari** bilan ishlashda rivojlantirdim. Mana, bu yo'lda amalga oshirgan ishlanmalarim:
+**Frontend dasturchisi sifatida 1.5 yil davomida mustaqil o'rgandim.** Ushbu davrda bir necha kichik, lekin foydali loyihalar yaratdim. Quyidagi asosiy loyihalarim va texnologiyalarim:
 
 ### Loyihalar:
-- **Admin Dashboard**: React.js va Tailwind CSS yordamida foydalanuvchi interfeysi va ma'lumotlar panelini yaratdim. Loyihada statik ma'lumotlar bilan ishladim va UI/UX dizaynga e'tibor berdim.
-- **To-Do App**: Vazifalarni boshqarish uchun ilova yaratdim, bunda React.js va Tailwind CSS yordamida qulay va intuitiv dizaynni amalga oshirdim.
-- **GitHub Clone**: GitHub interfeysining oddiy versiyasini yaratdim, foydalanuvchilarga repositorylarni ko'rish, yaratish va boshqarish imkoniyatini berdim.
-- **Boshqa Kichik Ilovalar**: **Quiz App**, **Weather App**, **Landing Page** kabi responsiv web sahifalar yaratdim va foydalanuvchi tajribasini yaxshilashga harakat qildim.
+- **Admin Dashboard**: React.js va Tailwind CSS yordamida foydalanuvchi interfeysi va ma'lumotlar panelini yaratdim.
+- **To-Do App**: React.js va Tailwind CSS yordamida vazifalarni boshqarish ilovasini yaratdim.
+- **GitHub Clone**: GitHub interfeysining oddiy versiyasini yaratdim, foydalanuvchilarga repositorylarni ko'rish va yaratish imkoniyatini berdim.
+- **Boshqa Kichik Ilovalar**: **Quiz App**, **Weather App**, **Landing Page** kabi responsiv web sahifalar yaratdim.
 
 ---
 
 ## 🌱 Kelajakdagi Maqsadlar
 
-- **Katta Loyihalarda Ishlash**: Endi murakkab, katta loyihalarda ishlashni istayman. Bu orqali yangi texnologiyalarni o'rganib, chuqurroq tajriba orttirmoqchiman.
-- **Dasturlashni O'rgatish**: **Dasturlashni boshqalarga o'rgatish** maqsadida resurslar yaratmoqchiman. O'z bilimlarimni boshqalarga etkazish, jamoat bilan tajriba almashish va o'qituvchilikni rivojlantirishni rejalashtirganman.
-- **Yangi Texnologiyalarni O'rganish**: **WebAssembly**, **GraphQL**, **Jamstack** kabi texnologiyalarni o'rganish va ishlatishga qiziqishim bor. Bu men uchun yangi imkoniyatlar va muammolarni yechish uchun foydali bo'ladi.!
+- **Full-Stack Dasturchi bo'lish**: Node.js va Python ni o'rganib, backend va full-stack dasturchi bo'lishni rejalashtirganman.
+- **Dasturlashni O'rgatish**: O'z bilimlarimni boshqalarga o'rgatish, ta'lim berish va dasturlashni o'rgatish bo'yicha resurslar yaratmoqchiman.
+- **Yangi Texnologiyalarni O'rganish**: Web dasturlash va dasturlash tillarini o'rganishda yangi texnologiyalarni va yondashuvlarni o'zlashtirishni davom ettirish.
 
 ---
 
 ## 🛠 Ishlash Asboblari
 
 - **Version Control**: Git, GitHub
-- **Text Editors**: VS Code, WebStorm,  Sublime Text
-- **Design Tools**: Figma
+- **Text Editors**: VS Code, Sublime Text
+- **Design Tools**: Figma, Adobe XD
 - **Deployment**: Netlify, Vercel, GitHub Pages
 - **Package Managers**: NPM, Yarn
 
@@ -51,20 +52,27 @@
 
 ## 📫 Bog'lanish
 
-- **Telegram**: [Samandar Hodiev](https://t.me/samandar_hodiev)
-- **Email**: [email@example.com](samandarkhodiev04@gmail.com)
-- **GitHub**: [samandarhodiev](https://github.com/samandar-hodiev)
+- **LinkedIn**: [Samandar Hodiev](https://www.linkedin.com/in/samandarhodiev)
+- **Email**: [email@example.com](mailto:email@example.com)
+- **GitHub**: [samandarhodiev](https://github.com/samandarhodiev)
+- **Twitter**: [@samandarhodiev](https://twitter.com/samandarhodiev)
 
 ---
 
 ## 🚀 Karyera Yo'lim
 
-Men o'z karyeramni **frontend dasturchisi sifatida boshladim** va bir necha yillar davomida **mustaqil o'rganish** orqali katta bilim va tajriba orttirdim. Bugungi kunda men **o'rgatish** va **yangi loyihalarda ishlash** istagidaman. Kichik loyihalardan boshlab, katta va murakkab dasturlash sohalarida o'z bilimlarimni amaliyotga tatbiq etishni maqsad qilganman.
+Men frontend dasturchisi sifatida o'zimni **mustaqil o'rgangan** va zamonaviy texnologiyalar bilan ishlashni yaxshi ko'radigan inson deb ta'riflayman. Kichik loyihalardan boshlab, katta va murakkab dasturlash sohalarida o'z bilimlarimni amaliyotga tatbiq etishni maqsad qilganman. Kelayotgan yillarda **full-stack dasturchi** bo'lish va dasturlashni boshqalarga o'rgatish istagidaman.
 
-Agar siz bilan hamkorlik qilishni xohlasangiz yoki savollaringiz bo'lsa, menga **email** yoki **LinkedIn** orqali murojaat qilishingiz mumkin.
+---
 
+## 📸 Texnologiyalar
 
-
-
-![image](https://github.com/user-attachments/assets/95ddad27-8976-4c48-9517-2f6cf6fbcd15)
-
+![HTML5](https://img.icons8.com/color/120/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/120/000000/css3.png)
+![Sass](https://img.icons8.com/color/120/000000/sass.png)
+![Bootstrap](https://img.icons8.com/color/120/000000/bootstrap.png)
+![Tailwind CSS](https://img.icons8.com/color/120/000000/tailwind-css.png)
+![React JS](https://img.icons8.com/color/120/000000/react-native.png)
+![Next JS](https://img.icons8.com/ios-filled/120/000000/nextjs.png)
+![TypeScript](https://img.icons8.com/color/120/000000/typescript.png)
+![Node JS](https://img.icons8.com/color/120/000000/nodejs.png)
