@@ -70,7 +70,7 @@ Dasturlashdan maqsadim — boshqalarga dasturlashni o'rgatish, yangi boshlovchil
     <img src="https://img.icons8.com/color/200/000000/javascript.png" width="200px" height="200px" alt="JavaScript Logo" />
     <img src="https://img.icons8.com/color/200/000000/react-native.png" width="200px" height="200px" alt="ReactJS Logo" />
     <img src="https://delicate-dawn-ac25646e6d.media.strapiapp.com/react_router_7_0f71a95982.png" width="200px" height="200px" alt="React Router Logo" />
-    <img src="https://img.icons8.com/color/200/000000/axios.png" width="200px" height="200px" alt="Axios Logo" />
+    <img src="https://images.seeklogo.com/logo-png/33/2/axios-logo-png_seeklogo-339659.png" width="200px" height="200px" alt="Axios Logo" />
     <img src="https://img.icons8.com/color/200/000000/nextjs.png" width="200px" height="200px" alt="NextJS Logo" />
     <img src="https://img.icons8.com/color/200/000000/typescript.png" width="200px" height="200px" alt="TypeScript Logo" />
     <img src="https://img.icons8.com/color/200/000000/git.png" width="200px" height="200px" alt="Git Logo" />
