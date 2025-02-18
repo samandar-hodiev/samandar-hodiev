@@ -50,7 +50,7 @@ Men foydalanadigan texnologiyalar:
 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="270px" height="270px" alt="TypeScript Logo">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-git-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-225996.png?f=webp&w=256 width="270px" height="270px" alt="Git Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"  width="270px" height="270px" alt="Git Logo">
   <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png" width="270px" height="270px" alt="GitHub Logo">
 </p>
 
