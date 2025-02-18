@@ -30,7 +30,7 @@ Men foydalanadigan texnologiyalar:
 
 ## **Animatsion Texnologiya Logolari**
 
-<p>
+<p style="center">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" width="200px" height="200px" alt="HTML5 Logo">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" width="200px" height="200px" alt="CSS3 Logo">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" width="200px" height="200px" alt="Sass Logo">
