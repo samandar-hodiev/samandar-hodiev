@@ -1,2 +1,2 @@
 
-#   ![Samandar Hodiev](https://www.youtube.com/@samandarhodiev)
+#   ![alt Samandar Hodiev](https://www.youtube.com/@samandarhodiev)
