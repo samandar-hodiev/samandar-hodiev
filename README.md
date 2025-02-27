@@ -1,2 +1,2 @@
 
-# https://www.youtube.com/@samandarhodiev
+#   ![Samandar Hodiev](https://www.youtube.com/@samandarhodiev)
