@@ -8,7 +8,6 @@
 <h1 style="color: #ff5733;">💻 Samandar Hodiev</h1>
 <p style="color: #3498db;">🎯 Front-End Developer | Self-taught | Future Mentor | JS Tutor on YouTube</p>
 
-
 # 💻 Samandar Hodiev
 
 🎯 Front-End Developer | Self-taught | Future Mentor | JS Tutor on YouTube
@@ -19,6 +18,8 @@
 
 I'm a self-taught Front-End developer with a strong passion for teaching and mentoring.  
 I build responsive and adaptive web applications using modern tools, and I’m always exploring better ways to create clean and intuitive user interfaces.
+
+🗓 **Age**: 22
 
 ---
 
@@ -65,9 +66,14 @@ Check it out and subscribe for practical lessons & explanations:
 
 ---
 
+## 🌍 Languages
+
+- **English** (B2 level)
+- **Uzbek** (Native)
+
+---
+
 ## 📫 Let's Connect
 
 - Telegram: [@samandar_hodiev](https://t.me/samandar_hodiev)
 - YouTube: [Samandar Hodiev](https://www.youtube.com/@samandarhodiev)
-
----
