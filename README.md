@@ -5,14 +5,14 @@
 
 # 💻 Samandar Hodiev
 
-🎯 Front-End Developer | Self-taught | Passionate about clean UI & modern web
+🎯 Front-End Developer | Self-taught | Future Mentor | JS Tutor on YouTube
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a self-taught Front-End developer who enjoys building responsive and adaptive web applications using modern tools and technologies.  
-I have a strong interest in creating clean, functional, and user-friendly interfaces while continuously improving my skills through hands-on projects.
+I'm a self-taught Front-End developer with a strong passion for teaching and mentoring.  
+I build responsive and adaptive web applications using modern tools, and I’m always exploring better ways to create clean and intuitive user interfaces.
 
 ---
 
@@ -25,26 +25,43 @@ I have a strong interest in creating clean, functional, and user-friendly interf
 
 ---
 
-## 📱 What I Can Do
+## 📚 My Mission
 
-- Build fully **responsive** and **adaptive** websites
-- Create **reusable components** with modern frameworks
-- Develop **clean UIs** with Tailwind CSS & Flowbite
-- Use **TypeScript** for type-safe development
-- Work with **client-side routing & dynamic pages** in Next.js
+I aim to become a Front-End **mentor** and help beginners learn web development the right way.  
+Currently, I'm also sharing free educational content on **JavaScript** through my YouTube channel.
 
 ---
 
-## 🚀 Goals
+## 🎥 YouTube Channel
 
-- Keep growing as a Front-End developer  
-- Collaborate on real-world projects  
-- Share knowledge and help others learn
+📺 I'm actively publishing **JavaScript tutorials** on YouTube.  
+Check it out and subscribe for practical lessons & explanations:
+
+🔗 [youtube.com/@samandarhodiev](https://www.youtube.com/@samandarhodiev)
+
+---
+
+## 📱 What I Can Do
+
+- Build fully **responsive** and **adaptive** websites
+- Create **reusable UI components**
+- Build **clean UIs** using Tailwind CSS & Flowbite
+- Use **TypeScript** for better code quality
+- Handle **client-side routing and dynamic pages** in Next.js
+
+---
+
+## 🚀 Current Goals
+
+- Share knowledge through teaching and mentoring
+- Grow my YouTube channel with quality content
+- Collaborate on open-source or team-based frontend projects
 
 ---
 
 ## 📫 Let's Connect
 
 - Telegram: [@samandar_hodiev](https://t.me/samandar_hodiev)
+- YouTube: [Samandar Hodiev](https://www.youtube.com/@samandarhodiev)
 
 ---
