@@ -2,11 +2,8 @@
 
 
 
-<br>
+<br><br>
 
-
-<h1 style="color: #ff5733;">💻 Samandar Hodiev</h1>
-<p style="color: #3498db;">🎯 Front-End Developer | Self-taught | Future Mentor | JS Tutor on YouTube</p>
 
 # 💻 Samandar Hodiev
 
