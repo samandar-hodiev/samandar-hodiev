@@ -32,7 +32,7 @@ I build responsive and adaptive web applications using modern tools, and I’m a
 ## 📚 My Mission
 
 I aim to become a Front-End **mentor** and help beginners learn web development the right way.  
-Currently, I'm also sharing free educational content on **JavaScript** through my YouTube channel.
+Currently, I'm also sharing free educational content on **JavaScript**, **TailwindCss** through my YouTube channel.
 
 ---
 
