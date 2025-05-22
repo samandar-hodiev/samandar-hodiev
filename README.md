@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=2000&color=34D399&background=99D45710&multiline=true&width=460&height=36&lines=Front-End+developer..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=2000&color=34D399&background=99D45710&multiline=true&width=460&height=36&lines=Learner)](https://git.io/typing-svg)
